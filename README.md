@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 I'm currently building the future of Clinical Trials @Curebase (YC S18)
 
