@@ -14,7 +14,7 @@ Over the last few years, here are a few things I’ve worked on:
 Outside of work, I enjoy working out, and reading/writing about tech. Here’s a post I wrote on GraphQL vs REST, back when I was just getting started with GraphQL: https://medium.com/@aditya.bansal93/initial-impressions-of-graphql-from-a-rest-guys-perspective-71a89e81444b
 
 
-- 📫 How to reach me: aditya.bansal93@gmail.com
+📫 You can reach me at: aditya.bansal93@gmail.com
 
 <!--
 **maddymanu/maddymanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
