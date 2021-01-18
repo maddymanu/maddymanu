@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm currently building the future of Clinical Trials @Curebase (YC S18)
+I'm currently building the future of Microservices @Cortex (YC W20)
 
 Over the last few years, here are a few things I’ve worked on:  
 -> Built Web apps in Javascript, TypeScript, React.  
